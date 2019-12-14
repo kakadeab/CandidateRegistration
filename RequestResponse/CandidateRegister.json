@@ -1,0 +1,21 @@
+URL:- http://localhost:9898/api/candidate/registration
+
+Request:-
+{
+    "name":"Amol Kakade",
+    "qualification":"B.E.",
+    "experience":"4.2 years",
+    "skills":"Java",
+    "exam":[
+        {
+            "position":"Software Engineer",
+            "date":"2019-10-25"
+        }
+    ]
+
+}
+
+Response:- 
+{
+    "id": 3
+}
