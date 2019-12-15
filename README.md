@@ -5,6 +5,8 @@ Steps to Run the CandidateRegistration
 #Note:- All Images are available in the "CandidateRegistration/Images" directory.
 #Note:- All the request and response are available in the "CandidateRegistration/RequestResponse" directory
 
+# Command to clone the project :- git clone https://github.com/kakadeab/CandidateRegistration.git
+
 Step1. After git clone create a database schema with name "CANDIDATE_REGISTRATION" and change the username and password in the application.properties file.
 
 Step2. Go to the "CandidateRegistration/candidate-registration" directory.
