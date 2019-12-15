@@ -7,7 +7,7 @@ import com.mobiliya.dto.RegistrationDTO;
  * @author Amol.Kakade
  *
  */
-public interface Registration {
+public interface RegistrationService {
 
 	/**
 	 * This method is used to perform the business logic for the Candidate registration.
